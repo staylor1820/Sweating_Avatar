@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EXPERIMENT.unity
     guid: f8957603b4a6db147900ec52a2186625
   - enabled: 1
-    path: Assets/Scenes/RoomForStudy/Room_For_Study_MALE.unity
+    path: Assets/Scenes/Room_For_Study_MALE.unity
     guid: 609fac7f0963d464881b766ffbbf74b6
   - enabled: 1
     path: Assets/Scenes/Room/Tutorial.unity
