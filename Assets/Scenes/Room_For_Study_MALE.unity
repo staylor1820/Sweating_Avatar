@@ -14294,6 +14294,10 @@ PrefabInstance:
       value: WallHeater
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bff15a9c34bc286488ce28cef477d46d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bff15a9c34bc286488ce28cef477d46d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -24431,7 +24435,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1549058877
 Transform:
   m_ObjectHideFlags: 0
@@ -29088,6 +29092,10 @@ PrefabInstance:
       value: TT By Antrax_Corona
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 36fd81ba7440dce4aa5cb58eca3eb755, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36fd81ba7440dce4aa5cb58eca3eb755, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -33478,15 +33486,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.486
+      value: -0.203
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.01
+      value: -0.028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.501
+      value: -0.137
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
       propertyPath: m_LocalRotation.w
@@ -33519,6 +33527,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
       propertyPath: m_Name
       value: AvatarMale
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161998778312106003, guid: 1fe291780914b6846969ccd92f1a2140, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
